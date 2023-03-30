@@ -20,7 +20,7 @@ public abstract class Animal
 {
     public string Name;
     public int Age;
-    public Animal(string name, int age)
+    protected Animal(string name, int age)
     {
         Name = name;
         Age = age;
