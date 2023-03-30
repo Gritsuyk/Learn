@@ -46,9 +46,7 @@ public abstract class Predator : Animal
 }
 public abstract class Herbivore : Animal
 {
-    public Herbivore(string name, int age) : base(name, age)
-    {
-    }
+    public Herbivore(string name, int age) : base(name, age){}
 }
 public abstract class Ungulate : Animal
 {
