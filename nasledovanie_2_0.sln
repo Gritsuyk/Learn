@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nasledovanie_2_0", "nasledovanie_2_0\nasledovanie_2_0.csproj", "{4456B33B-3878-4345-9935-6B0AFEFF28A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4456B33B-3878-4345-9935-6B0AFEFF28A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4456B33B-3878-4345-9935-6B0AFEFF28A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4456B33B-3878-4345-9935-6B0AFEFF28A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4456B33B-3878-4345-9935-6B0AFEFF28A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1363E9F4-199D-46D7-B21F-5E0F1E77E7DB}
+	EndGlobalSection
+EndGlobal
