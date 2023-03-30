@@ -52,9 +52,7 @@ public abstract class Herbivore : Animal
 }
 public abstract class Ungulate : Animal
 {
-    public Ungulate(string name, int age) : base(name, age)
-    {
-    }
+    public Ungulate(string name, int age) : base(name, age){}
 }
 public class Bull : Ungulate
 {
