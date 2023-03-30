@@ -112,3 +112,4 @@ public class Cat : Animal
         Console.WriteLine($"Имя: {Name}, Возраст: {Age}, Оставшиеся жизни: {LivesLeft}");
     }
 }
+// Комментарий
